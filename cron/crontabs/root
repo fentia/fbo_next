@@ -1,1 +1,2 @@
-30 0 * * * /system/bin/sh /data/adb/modules/fbo_next/fbo_cron_task.sh
+30 23 * * * /system/bin/sh /data/adb/modules/fbo_next/fbo_cron_task.sh
+0 8 * * * /system/bin/sh /data/adb/modules/fbo_next/fbo_cron_task.sh
