@@ -1,6 +1,6 @@
 # FBO NEXT
 ### 介绍
-一个重新开启小米焕新存储(FBO)的Magisk模块，该模块会在每次开机120s后启动FBO，并且会在每天凌晨00:30再次启动FBO  
+一个重新开启小米焕新存储(FBO)的Magisk模块，该模块会在每次开机120s后启动FBO，并且会在每天8:00和23:30再次启动FBO  
 模块日志路径：```/data/adb/modules/fbo_next/log.txt```
 
 ### 测试环境
